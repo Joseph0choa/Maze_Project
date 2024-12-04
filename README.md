@@ -44,7 +44,9 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
    - Versión: 49.0 o superior
    - Descargar desde: Unity Asset Store
    - Componentes clave: 
-     * OVRPlugin
+     * XR Managment (Oculus - Android)
+     * Meta All In One SDK
+     * TMP
 
 2. **TextMeshPro**
    - Incluido en paquetes estándar de Unity
@@ -65,7 +67,6 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
 ## Tecnologías Utilizadas
 - Unity 3D
 - Oculus Quest 2
-- Plugin SteamVR
 - Algoritmo de Búsqueda por Anchura (BFS)
 
 ## Requisitos del Sistema
@@ -93,7 +94,6 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
 - Jeremy Lewis Herrera Acuña
 - Anderson Joseph Ochoa Trujillo
 - Juan Pablo Hoyos Sanchez
-- Cristian Andrés Villarreal Orozco
 
 ## Licencia
 [Especificar Tipo de Licencia]
