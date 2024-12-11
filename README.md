@@ -56,7 +56,7 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
    - Permite movimiento del agente en el laberinto
      
 4. **TMP Essentials, Examples & Extras**
-   -Creación e interacción con Canvas
+   - Creación e interacción con Canvas
    
 ### Configuración Adicional
 - Unity versión 2022 LTS o superior
