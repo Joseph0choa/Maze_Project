@@ -46,7 +46,6 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
    - Componentes clave: 
      * XR Managment (Oculus - Android)
      * Meta All In One SDK
-     * TMP
 
 2. **TextMeshPro**
    - Incluido en paquetes estándar de Unity
@@ -55,7 +54,10 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
 3. **NavMesh Components**
    - Para sistemas de navegación autónoma
    - Permite movimiento del agente en el laberinto
-
+     
+4. **TMP Essentials, Examples & Extras**
+   -Creación e interacción con Canvas
+   
 ### Configuración Adicional
 - Unity versión 2022 LTS o superior
 - .NET Framework 4.x 
