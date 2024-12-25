@@ -51,12 +51,13 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
    - Incluido en paquetes estándar de Unity
    - Necesario para interfaz de usuario
 
-3. **NavMesh Components**
+3. **AI Navigation**
    - Para sistemas de navegación autónoma
    - Permite movimiento del agente en el laberinto
      
 4. **TMP Essentials, Examples & Extras**
    - Creación e interacción con Canvas
+   
    
 ### Configuración Adicional
 - Unity versión 2022 LTS o superior
