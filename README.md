@@ -98,8 +98,4 @@ Proyecto de investigación que compara el rendimiento de navegación en laberint
 - Anderson Joseph Ochoa Trujillo
 - Juan Pablo Hoyos Sanchez
 
-## Licencia
-[Especificar Tipo de Licencia]
 
-## Citación de Investigación
-Herrera Acuña, J. L., et al. (2024). Diseño de entorno inmersivo en Unity 3D: Generación matricial de laberintos y sistemas de navegación autónoma.
